@@ -1,0 +1,7 @@
+Django
+django-allauth
+django-crispy-forms
+django-hitcount
+gunicorn
+six
+pillow
